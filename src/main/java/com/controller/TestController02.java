@@ -8,4 +8,6 @@ package com.controller;
  **/
 public class TestController02 {
     //接口一
+
+    //接口二
 }
