@@ -7,4 +7,5 @@ package com.controller;
  * @create: 2021-09-25 11:20
  **/
 public class TestController02 {
+    //接口一
 }
