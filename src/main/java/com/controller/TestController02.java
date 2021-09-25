@@ -6,6 +6,6 @@ package com.controller;
  * @author: liusiqi1226
  * @create: 2021-09-25 11:33
  **/
-public class TestController03 {
+public class TestController02 {
     //接口三
 }
